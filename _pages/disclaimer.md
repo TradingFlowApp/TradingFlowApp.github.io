@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Disclaimer
-include_in_header: false
+include_in_header: true
 ---
 
 # Disclaimer
