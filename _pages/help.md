@@ -65,7 +65,3 @@ Fees are calculated for each buy and sell operations. The amount for each operat
 ## Financial Instruments
 
 This section is comming soon ...
-
-## Parameters
-
-This section is comming soon ...
