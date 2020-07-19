@@ -5,10 +5,10 @@ include_in_header: true
 ---
 
 **Last updated**  
-June 11 2020
+July 19 2020
 
 # Privacy Policy
-I care deeply about privacy. I don’t track you, store personal data, or sell information to advertising companies. I believe that your personal data belongs to you, so all the information you provide to the App is stored locally or in your iCloud drive.
+I care deeply about privacy. I don’t track you, store personal data, or sell information to advertising companies. I believe that your personal data belongs to you, so all the information you provide to the App is stored locally or in your private iCloud container.
 <br>
 
 ## What TradingFlow App does do

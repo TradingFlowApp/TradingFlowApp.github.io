@@ -5,6 +5,23 @@ include_in_header: true
 ---
 
 ### `Latest`
+# **Version 1.1**
+The App is now free with limited features. Full access to all features can be unlocked by an In-App purchase.
+
+#### What's New
+- Premium In-App purchase to unlock all features. Free version is limited to one flow with 3 steps and financial instruments can not be customized or added.
+- Multi-device iCloud synchronization
+- Advanced fees management : possibility to adjust fees on each trade opertation (Buy or Sell). [Premium only] 
+- Update on [Privacy Policy](/privacypolicy)
+
+<br>
+
+#### What's coming soon
+- Flow templates
+- Detailed flow result reports
+
+<br>
+
 # **Version 1.0**
 This is the first release of tradingFlow App. The App is availaible on iPhone and iPad.
 
