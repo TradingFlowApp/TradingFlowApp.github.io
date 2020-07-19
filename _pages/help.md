@@ -56,10 +56,10 @@ If you delete a step, all the following steps are alose deleted.
 Fees can be adjsuted on buy or sell operations. Make a long tap one the pencil button  <img src="/assets/editStep.png" width="2%"> of the step, and then choose "Adjust fees" in the context menu.<br>
 <br>
 <img src="/assets/stepFees.png" width="20%">
-<br>
-You can then set specific fees for this step. The gray reset button helps to restore orginal fees (the onses set on the flow).
+<br><br>
+You can then set specific fees for this step. Tap the gray reset button to restore orginal fees value (the one set on the flow).
 
-Fees with an adjusted value a framed in red. 
+Fees with an adjusted value are framed in red. 
 
 ### Note on withdraws
 There is no need to add a final withdraw to get flows results. A virtual one is automatically added when calculating gains and losses.
