@@ -48,7 +48,7 @@ Just tap on the pencil button <img src="/assets/editStep.png" width="2%"> of the
 Only one step at a time can be edited. Tap on the checkmark button <img src="/assets/checkStep.png" width="2%"> to validate your inputs.
 
 ### Delete steps
-Make a long tap on the pencil button <img src="/assets/editStep.png" width="2%"> of the step you want to delele, and then choose "Delete" in the contexte menu.
+Make a long tap on the pencil button <img src="/assets/editStep.png" width="2%"> of the step you want to delele, and then choose "Delete" in the context menu.
 
 If you delete a step, all the following steps are alose deleted.
 
