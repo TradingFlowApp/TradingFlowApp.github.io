@@ -48,9 +48,18 @@ Just tap on the pencil button <img src="/assets/editStep.png" width="2%"> of the
 Only one step at a time can be edited. Tap on the checkmark button <img src="/assets/checkStep.png" width="2%"> to validate your inputs.
 
 ### Delete steps
-Make a long tap on the pencil button <img src="/assets/editStep.png" width="2%"> of the step you want to delele, and then choose delete in the contexte menu.
+Make a long tap on the pencil button <img src="/assets/editStep.png" width="2%"> of the step you want to delele, and then choose "Delete" in the contexte menu.
 
 If you delete a step, all the following steps are alose deleted.
+
+### Adjust fees on a trade operation
+Fees can be adjsuted on buy or sell operations. Make a long tap one the pencil button  <img src="/assets/editStep.png" width="2%"> of the step, and then choose "Adjust fees" in the context menu.<br>
+<br>
+<img src="/assets/stepFees.png" width="20%">
+<br>
+You can then set specific fees for this step. The gray reset button helps to restore orginal fees (the onses set on the flow).
+
+Fees with an adjusted value a framed in red. 
 
 ### Note on withdraws
 There is no need to add a final withdraw to get flows results. A virtual one is automatically added when calculating gains and losses.
